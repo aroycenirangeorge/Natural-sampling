@@ -90,3 +90,7 @@ plt.show()
 
 ### **RESULT**  
 Thus, the simple Natural Sampling program was successfully executed using Python.
+
+### **Hardware Experiment - Output Graph**
+![WhatsApp Image 2025-05-01 at 22 43 00_1e8c9247](https://github.com/user-attachments/assets/57b7d60a-e6cd-4154-a2cc-49f9e5769888)
+
